@@ -10,18 +10,22 @@ Bible CNUV in markdown and iBook format.
 
 1. Find (1 linebreak on top)
 
-
-Gen50:(.*?)	
+<pre>
+  
+  Gen50:(.*?)	
+</pre>
 
 2. Replace with (2 linebreaks on top)
 
-
-
-<star>\1<star> 
+<pre>
+  
+  
+  &lt;star&gt;1&lt;star&gt; 
+</pre>
 
 3. Make sub header manually
 
-## 創世紀 1
+  `## 創世紀 1`
 
 4. When done, replace <star> with asterisk.
 
