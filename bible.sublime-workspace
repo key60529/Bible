@@ -1,0 +1,328 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "bible.txt",
+			"settings":
+			{
+				"buffer_size": 1355767,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "bible in markdown",
+			"settings":
+			{
+				"buffer_size": 1353592,
+				"line_ending": "Unix",
+				"name": "Gen1:1	起初，神創造天地。"
+			}
+		},
+		{
+			"file": "/Users/leo/Desktop/bible.txt",
+			"settings":
+			{
+				"buffer_size": 2068962,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/leo/Dropbox/Vault/Bible/bible.txt",
+		"/Users/leo/Dropbox/Vault/Bible/01.txt",
+		"/Users/leo/Dropbox/Vault/Bible/mystyle.css",
+		"/Users/leo/Dropbox/Vault/Bible/02.txt",
+		"/Users/leo/Dropbox/Vault/Bible/01.html"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\nGen29:(.*?)	",
+			"\nGen28:(.*?)	",
+			"\nGen27:(.*?)	",
+			"\nGen26:(.*?)	",
+			"\nGen25:(.*?)	",
+			"\nGen24:(.*?)	",
+			"\nGen23:(.*?)	",
+			"\nGen22:(.*?)	",
+			"\nGen21:(.*?)	",
+			"\nGen20:(.*?)	",
+			"\nGen19:(.*?)	",
+			"\nGen18:(.*?)	",
+			"\nGen18:(.*?)",
+			"Gen18:(.*?)",
+			"</sup>",
+			"<sup>",
+			"\n(.*?)<sup>(.*?)</sup>",
+			"Gen17:(.*?)	",
+			"Gen16:(.*?)	",
+			"Gen15:(.*?)	",
+			"Gen14:(.*?)	",
+			"Gen13:(.*?)	",
+			"Gen12:(.*?)	",
+			"Gen11:(.*?)	",
+			"Gen10:(.*?)	",
+			"Gen9:(.*?)	",
+			"Gen8:(.*?)	",
+			"Gen7:(.*?)	",
+			"<sup>",
+			"  神",
+			"神",
+			"Gen1:",
+			"gen"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"\n\n<star>\\1<star> ",
+			"\n\n<star>\\1<star>\\\\ ",
+			"\n\n<star>\\1<star>\\\\\\ ",
+			"\n\n<star>\\1<star>",
+			"<star>\\1<star> ",
+			"\\*\\1\\* ",
+			"\\*\\\\1\\* ",
+			"\\*\\ 1\\** ",
+			"\\* \\ 1\\** ",
+			"\\**\\ 1\\** ",
+			"\\**\\1\\** ",
+			"\\_\\1\\_ ",
+			"*\\\\1\\* ",
+			"\\*\\1\\* ",
+			"\\* \\1\\*",
+			"\\*\\1\\*",
+			"* ",
+			"*",
+			"\n<span>\\1</span><sup>\\2</sup>",
+			"\n\n<span>\\1</span><sup>\\2</sup>",
+			"\n<sup>\\1</sup>",
+			"\n<sup>",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "bible.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1355767,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								35418,
+								35427
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 32120.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "bible in markdown",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1353592,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2039,
+								2039
+							]
+						],
+						"settings":
+						{
+							"auto_name": "Gen1:1	起初，神創造天地。",
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 3,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/leo/Desktop/bible.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2068962,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								413,
+								413
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "",
+	"replace":
+	{
+		"height": 140.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
