@@ -11,24 +11,7 @@
 			"file": "bible.txt",
 			"settings":
 			{
-				"buffer_size": 1355767,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "bible in markdown",
-			"settings":
-			{
-				"buffer_size": 1353592,
-				"line_ending": "Unix",
-				"name": "Gen1:1	起初，神創造天地。"
-			}
-		},
-		{
-			"file": "/Users/leo/Desktop/bible.txt",
-			"settings":
-			{
-				"buffer_size": 2068962,
+				"buffer_size": 1453003,
 				"line_ending": "Unix"
 			}
 		}
@@ -36,17 +19,18 @@
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 0.0,
+		"height": 392.0,
 		"selected_items":
 		[
 		],
-		"width": 0.0
+		"width": 449.0
 	},
 	"console":
 	{
-		"height": 0.0,
+		"height": 153.0,
 		"history":
 		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
 		]
 	},
 	"distraction_free":
@@ -60,15 +44,21 @@
 	},
 	"file_history":
 	[
-		"/Users/leo/Dropbox/Vault/Bible/bible.txt",
-		"/Users/leo/Dropbox/Vault/Bible/01.txt",
 		"/Users/leo/Dropbox/Vault/Bible/mystyle.css",
+		"/Users/leo/Dropbox/Vault/Bible/bible modified",
+		"/Users/leo/Dropbox/Vault/Bible/bible in markdown",
+		"/Users/leo/Library/Application Support/Sublime Text 3/Packages/User/RegReplace/reg_replace.sublime-settings",
+		"/Users/leo/Dropbox/Vault/Bible/Bible CUV",
+		"/Users/leo/Library/Application Support/Sublime Text 3/Packages/RegReplace/Default.sublime-commands",
+		"/Users/leo/Dropbox/Vault/Bible/bible.txt",
+		"/Users/leo/Desktop/bible.txt",
+		"/Users/leo/Dropbox/Vault/Bible/01.txt",
 		"/Users/leo/Dropbox/Vault/Bible/02.txt",
 		"/Users/leo/Dropbox/Vault/Bible/01.html"
 	],
 	"find":
 	{
-		"height": 27.0
+		"height": 35.0
 	},
 	"find_in_files":
 	{
@@ -82,39 +72,134 @@
 		"case_sensitive": false,
 		"find_history":
 		[
-			"\nGen29:(.*?)	",
-			"\nGen28:(.*?)	",
-			"\nGen27:(.*?)	",
-			"\nGen26:(.*?)	",
-			"\nGen25:(.*?)	",
-			"\nGen24:(.*?)	",
-			"\nGen23:(.*?)	",
-			"\nGen22:(.*?)	",
-			"\nGen21:(.*?)	",
-			"\nGen20:(.*?)	",
-			"\nGen19:(.*?)	",
-			"\nGen18:(.*?)	",
-			"\nGen18:(.*?)",
-			"Gen18:(.*?)",
-			"</sup>",
-			"<sup>",
-			"\n(.*?)<sup>(.*?)</sup>",
-			"Gen17:(.*?)	",
-			"Gen16:(.*?)	",
-			"Gen15:(.*?)	",
-			"Gen14:(.*?)	",
-			"Gen13:(.*?)	",
-			"Gen12:(.*?)	",
-			"Gen11:(.*?)	",
-			"Gen10:(.*?)	",
-			"Gen9:(.*?)	",
-			"Gen8:(.*?)	",
-			"Gen7:(.*?)	",
-			"<sup>",
-			"  神",
-			"神",
-			"Gen1:",
-			"gen"
+			"　神",
+			"\nJob27:(.*?)	",
+			"\nJob26:(.*?)	",
+			"\nJob25:(.*?)	",
+			"\nJob24:(.*?)	",
+			"\nJob23:(.*?)	",
+			"\nJob22:(.*?)	",
+			"\nJob21:(.*?)	",
+			"\nJob20:(.*?)	",
+			"\nJob19:(.*?)	",
+			"\nJob18:(.*?)	",
+			"\nJob17:(.*?)	",
+			"\nJob16:(.*?)	",
+			"\nJob15:(.*?)	",
+			"\nJob14:(.*?)	",
+			"\nJob13:(.*?)	",
+			"\nJob12:(.*?)	",
+			"\nJob11:(.*?)	",
+			"\nJob10:(.*?)	",
+			"\nJob9:(.*?)	",
+			"\nJob8:(.*?)	",
+			"\nJob7:(.*?)	",
+			"\nJob6:(.*?)	",
+			"\nJob5:(.*?)	",
+			"\nJob4:(.*?)	",
+			"\nJob3:(.*?)	",
+			"\nJob2:(.*?)	",
+			"\nJob1:(.*?)	",
+			"\nEST10:(.*?)	",
+			"\nEST9:(.*?)	",
+			"\nEST8:(.*?)	",
+			"\nEST7:(.*?)	",
+			"\nEST6:(.*?)	",
+			"\nEST5:(.*?)	",
+			"\nEST4:(.*?)	",
+			"\nEST3:(.*?)	",
+			"\nEST2:(.*?)	",
+			"\nEST1:(.*?)	",
+			"\nNeh13:(.*?)	",
+			"\nNeh12:(.*?)	",
+			"\nNeh11:(.*?)	",
+			"\nNeh10:(.*?)	",
+			"\nNeh9:(.*?)	",
+			"\nNeh8:(.*?)	",
+			"\nNeh7:(.*?)	",
+			"\nNeh6:(.*?)	",
+			"\nNeh5:(.*?)	",
+			"\nNeh4:(.*?)	",
+			"\nNeh3:(.*?)	",
+			"\nNeh2:(.*?)	",
+			"\nNeh1:(.*?)	",
+			"\nEzr10:(.*?)	",
+			"\nEzr9:(.*?)	",
+			"\nEzr8:(.*?)	",
+			"\nEzr7:(.*?)	",
+			"\nEzr6:(.*?)	",
+			"\nEzr5:(.*?)	",
+			"\nEzr4:(.*?)	",
+			"\nEzr3:(.*?)	",
+			"\nEzr2:(.*?)	",
+			"\nEzr1:(.*?)	",
+			"\n2Ch36:(.*?)	",
+			"\n2Ch35:(.*?)	",
+			"\n2Ch34:(.*?)	",
+			"\n2Ch33:(.*?)	",
+			"\n2Ch32:(.*?)	",
+			"\n2Ch31:(.*?)	",
+			"\n2Ch30:(.*?)	",
+			"\n2Ch29:(.*?)	",
+			"\n2Ch28:(.*?)	",
+			"\n2Ch27:(.*?)	",
+			"\n2Ch26:(.*?)	",
+			"\n2Ch25:(.*?)	",
+			"\n2Ch24:(.*?)	",
+			"\n2Ch23:(.*?)	",
+			"\n2Ch22:(.*?)	",
+			"\n2Ch21:(.*?)	",
+			"\n2Ch20:(.*?)	",
+			"\n2Ch19:(.*?)	",
+			"\n2Ch18:(.*?)	",
+			"\n2Ch17:(.*?)	",
+			"\n2Ch16:(.*?)	",
+			"\n2Ch15:(.*?)	",
+			"\n2Ch14:(.*?)	",
+			"\n2Ch13:(.*?)	",
+			"\n2Ch12:(.*?)	",
+			"\n2Ch11:(.*?)	",
+			"\n2Ch10:(.*?)	",
+			"\n2Ch9:(.*?)	",
+			"\n2Ch8:(.*?)	",
+			"\n2Ch7:(.*?)	",
+			"\n2Ch6:(.*?)	",
+			"\n2Ch5:(.*?)	",
+			"\n2Ch4:(.*?)	",
+			"\n2Ch3:(.*?)	",
+			"\n2Ch2:(.*?)	",
+			"\n2Ch1:(.*?)	",
+			"\n1Ch29:(.*?)	",
+			"\n1Ch28:(.*?)	",
+			"\n1Ch27:(.*?)	",
+			"\n1Ch26:(.*?)	",
+			"\n1Ch25:(.*?)	",
+			"\n1Ch24:(.*?)	",
+			"\n1Ch23:(.*?)	",
+			"\n1Ch22:(.*?)	",
+			"\n1Ch21:(.*?)	",
+			"\n1Ch20:(.*?)	",
+			"\n1Ch19:(.*?)	",
+			"\n1Ch18:(.*?)	",
+			"\n1Ch17:(.*?)	",
+			"\n1Ch16:(.*?)	",
+			"\n1Ch15:(.*?)	",
+			"\n1Ch14:(.*?)	",
+			"\n1Ch13:(.*?)	",
+			"\n1Ch12:(.*?)	",
+			"\n1Ch11:(.*?)	",
+			"\n1Ch10:(.*?)	",
+			"\n1Ch9:(.*?)	",
+			"\n1Ch8:(.*?)	",
+			"\n1Ch7:(.*?)	",
+			"\n1Ch6:(.*?)	",
+			"\n1Ch5:(.*?)	",
+			"\n1Ch4:(.*?)	",
+			"\n1Ch3:(.*?)	",
+			"\n1Ch2:(.*?)	",
+			"\n1Ch1:(.*?)	",
+			"\n2Kg25:(.*?)	",
+			"\n2Kg24:(.*?)	"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -122,6 +207,7 @@
 		"regex": true,
 		"replace_history":
 		[
+			"神",
 			"\n\n<star>\\1<star> ",
 			"\n\n<star>\\1<star>\\\\ ",
 			"\n\n<star>\\1<star>\\\\\\ ",
@@ -164,85 +250,28 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1355767,
+						"buffer_size": 1453003,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								35418,
-								35427
+								710353,
+								710353
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+							"history_list_is_closing": true,
+							"syntax": "Packages/Markdown/Markdown.tmLanguage",
+							"word_wrap": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 32120.0,
+						"translation.y": 531305.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "bible in markdown",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1353592,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2039,
-								2039
-							]
-						],
-						"settings":
-						{
-							"auto_name": "Gen1:1	起初，神創造天地。",
-							"syntax": "Packages/Text/Plain text.tmLanguage",
-							"tab_size": 3,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "/Users/leo/Desktop/bible.txt",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2068962,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								413,
-								413
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
 					"type": "text"
 				}
 			]
@@ -250,7 +279,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 27.0
+		"height": 54.0
 	},
 	"input":
 	{
@@ -281,12 +310,12 @@
 	"menu_visible": true,
 	"output.find_results":
 	{
-		"height": 0.0
+		"height": 124.0
 	},
 	"project": "",
 	"replace":
 	{
-		"height": 140.0
+		"height": 197.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -316,7 +345,7 @@
 	"settings":
 	{
 	},
-	"show_minimap": true,
+	"show_minimap": false,
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
